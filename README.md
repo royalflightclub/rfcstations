@@ -1,7 +1,7 @@
 # Royal Flight Club Service Stations
 
-Manual Sunday–Saturday station assignments based on the supplied five-station template. Staff short names only are included. Assignments, notes, saved weeks and backups remain in the browser. No cloud synchronization or upload service.
+Daily manual station assignments. Select any date and assign staff to the five station slots. Save, edit, delete and restore individual dates. Copy assignments to another date. Previous weekly records are migrated into daily records, with the original weekly archive retained in backups.
 
-Supports editable staff/stations, five slots per station, duplicate-name warnings, weekly history, recoverable deletion, JSON backup, A4 landscape PDF and offline installation. Keep exported backups private.
+Records stay in the browser on the device. No cloud synchronization or upload service. Export private JSON backups before moving devices or clearing browser data. A4 landscape PDF, editable staff/stations and offline installation supported.
 
 App Created By: Micha Christine Dotimas
